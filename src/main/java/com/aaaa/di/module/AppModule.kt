@@ -23,7 +23,7 @@ object AppModule {
         Room.databaseBuilder(
             app,
             CaramfindViewByIdTextViewRidtvappnameomDatabase::class.java,
-            "CaramelKingdomDatabase"
+            "cccDatabase"
         )
             .addCallback(callfindViewByIdTextViewRidtvappnamek)
             .build()
